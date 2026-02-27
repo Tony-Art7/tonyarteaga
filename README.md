@@ -1,4 +1,4 @@
-# tony-art.com — Starter (Updated)
+# tonyarteaga.com — Starter (Updated)
 
 A lightweight, secure personal site for Tony. Static HTML, deployed on Vercel.
 
@@ -8,12 +8,12 @@ A lightweight, secure personal site for Tony. Static HTML, deployed on Vercel.
 3. Domains (GoDaddy DNS):
    - **A @ → 216.198.79.1** (Vercel new IP)
    - **CNAME www → <your project-specific> .vercel-dns-xxx.com** (shown in Vercel)
-   - `www` should **308 redirect** to the apex `tony-art.com` in Vercel → Domains.
+   - `www` should **308 redirect** to the apex `tonyarteaga.com` in Vercel → Domains.
 
 ## Customize
 - Replace GitHub URL in `index.html` and add `resume.pdf` at repo root.
 - Place your icons in `/assets` and keep `site.webmanifest` at repo root.
-- Headshot for social previews: `/assets/headshot.jpg` (ideally 1200×630).
+- Headshot for social previews: `/assets/headshot.png` (ideally 1200×630).
 
 ## Security
 - Strong headers via `vercel.json`. If you add external scripts/services, update CSP accordingly.

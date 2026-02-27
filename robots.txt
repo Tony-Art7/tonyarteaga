@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://tony-art.com/sitemap.xml
+Sitemap: https://tonyarteaga.com/sitemap.xml
